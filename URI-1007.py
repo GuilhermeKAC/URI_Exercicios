@@ -1,3 +1,6 @@
+#Exercicio 1007 URI "Diferença"
+#Tags: Calculo diferenca, iniciante
+
 A=int(input())
 B=int(input())
 C=int(input())

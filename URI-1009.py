@@ -1,3 +1,6 @@
+#Exercicio 1009 URI "Salário com Bônus"
+#Tags: Calculo salario, iniciante
+
 nome=input()
 salario_fixo=float(input())
 total_vendas=float(input())

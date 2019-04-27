@@ -1,3 +1,6 @@
+#Exercicio 1005 URI "Média 1"
+#Tags: Calculo Media, iniciante
+
 N1=float(input())
 N2=float(input())
 

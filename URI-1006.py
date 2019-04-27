@@ -1,3 +1,6 @@
+#Exercicio 1006 URI "Média 2"
+#Tags: Calculo Media, iniciante
+
 A=float(input())
 B=float(input())
 C=float(input())

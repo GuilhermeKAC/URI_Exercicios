@@ -1,3 +1,6 @@
+#Exercicio 1008 URI "Salário"
+#Tags: Calculo salario, iniciante
+
 numero=int(input())
 horas=int(input())
 valor_hora=float(input())
