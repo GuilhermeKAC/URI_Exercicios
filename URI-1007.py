@@ -1,11 +1,11 @@
-#Exercicio 1007 URI "Diferença"
-#Tags: Calculo diferenca, iniciante
+# Exercicio 1007 URI "Diferença"
+# Tags: Calculo diferenca, iniciante
 
-A=int(input())
-B=int(input())
-C=int(input())
-D=int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
 
-DIFERENCA = ((A * B) - (C * D))
+diferenca = ((a * b) - (c * d))
 
-print('DIFERENCA = %d' %DIFERENCA)
+print('DIFERENCA = %d' % diferenca)

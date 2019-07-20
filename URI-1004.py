@@ -1,9 +1,9 @@
-#Exercicio URI 1004 "Produto Simples"
-#Tags: Resultado de um produto, iniciante
+# Exercicio URI 1004 "Produto Simples"
+# Tags: Resultado de um produto, iniciante
 
-A=int(input())
-B=int(input())
+a = int(input())
+b = int(input())
 
-Prod = A * B
+prod = a * b
 
-print('PROD =',Prod)
+print('PROD =', prod)

@@ -1,9 +1,9 @@
-#Exercicio 1005 URI "Média 1"
-#Tags: Calculo Media, iniciante
+# Exercicio 1005 URI "Média 1"
+# Tags: Calculo Media, iniciante
 
-N1=float(input())
-N2=float(input())
+n1 = float(input())
+n2 = float(input())
 
-MEDIA = (((N1 * 3.5) + (N2 * 7.5))/11)
+media = (((n1 * 3.5) + (n2 * 7.5)) / 11)
 
-print('MEDIA = %0.5f' %MEDIA)
+print('MEDIA = %0.5f' % media)

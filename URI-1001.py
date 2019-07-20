@@ -1,9 +1,9 @@
-#Exercicio 1001 URI "Extremamente Básico"
-#Tags: Iniciante
+# Exercicio 1001 URI "Extremamente Básico"
+# Tags: Iniciante
 
-A=int(input())
-B=int(input())
+a = int(input())
+b = int(input())
 
-X = A + B
+x = a + b
 
-print('X =',X)
+print('X =', x)

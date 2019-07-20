@@ -1,9 +1,9 @@
-#Exercicio 1003 URI "Soma Simples"
-#Tags: Soma dois valores, iniciante
+# Exercicio 1003 URI "Soma Simples"
+# Tags: Soma dois valores, iniciante
 
-A=int(input())
-B=int(input())
+a = int(input())
+b = int(input())
 
-Soma = A + B
+soma = a + b
 
-print("SOMA =",Soma)
+print("SOMA =", soma)

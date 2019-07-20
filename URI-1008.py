@@ -1,11 +1,11 @@
-#Exercicio 1008 URI "Salário"
-#Tags: Calculo salario, iniciante
+# Exercicio 1008 URI "Salário"
+# Tags: Calculo salario, iniciante
 
-numero=int(input())
-horas=int(input())
-valor_hora=float(input())
+numero = int(input())
+horas = int(input())
+valor_hora = float(input())
 
-SALARY =  horas * valor_hora
+salary =  horas * valor_hora
 
-print('NUMBER = %d' %numero)
-print('SALARY = U$ %0.2f' %SALARY)
+print('NUMBER = %d' % numero)
+print('SALARY = U$ %0.2f' % salary)
